@@ -3,7 +3,7 @@
 This is an app that parses log file(s) and store logs into a .csv file after reformatting.
 It's simple and built upon several assumptions:
 1. The first occurrence of a unique key(logid) would hold the activity start information, 
-and the second would hold the end information. If there exists more than two occurrence, 
+and the second occurrence would hold the end information. If there exists more than two occurrence, 
 the rest should be treated as other independent events.
 2. Unique keys(logid) that appears only once do not need to be recorded.
 3. We don't need to keep pre-existing data if the set output file name already exists.
