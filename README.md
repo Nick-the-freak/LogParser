@@ -1,6 +1,5 @@
 # LogParser
 
-------------
 This is an app that parses log file(s) and store logs into a .csv file after reformatting.
 It's simple and built upon several assumptions:
 1. The first occurrence of a unique key(logid) would hold the activity start information, 
@@ -13,11 +12,10 @@ the rest should be treated as other independent events.
 
 Running Environment:
 + Windows or Mac Platform
-+ JDK 8,17
++ JDK 17/18
 
 ## Quick Start
 
-------------
 Pull or download the repo
 
 CD to the "src" folder and enter the following in terminal/command prompt, 
