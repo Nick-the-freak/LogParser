@@ -28,7 +28,3 @@
 2021-08-02 12:20:17,571 templogger   WARNING  "c7ad3e19-036b-4415-a7b6-9c76167df4e6" "network EP starts"
 2021-08-02 12:20:29,170 templogger   WARNING  "e93df592-0ea5-4b11-9a73-38b94fbef5d4" "timeline ep ends"
 2021-08-02 12:20:35,308 templogger   WARNING  "c7ad3e19-036b-4415-a7b6-9c76167df4e6" "network EP ends"
-2021-07-21 21:47:45,588 templogger   WARNING  "c7ad3e19-036b-4415-a7b6-9c76167df4e7" "test1 start"
-2021-07-21 21:48:48,423 templogger   WARNING  "c7ad3e19-036b-4415-a7b6-9c76167df4e7" "test1 end"
-2021-07-21 21:48:49,160 templogger   WARNING  "c7ad3e19-036b-4415-a7b6-9c76167df4e8" "test2 start"
-2021-07-21 21:49:51,988 templogger   WARNING  "c7ad3e19-036b-4415-a7b6-9c76167df4e8" "test2 end"
